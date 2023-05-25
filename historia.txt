@@ -1,5 +1,9 @@
 historia tengo 33 años y vivo en italia
 
+<<<<<<< HEAD
 hoy hablaremos es de la vida
 
 que es la vida?
+=======
+hoy hablaremos es de la vida
+>>>>>>> master
